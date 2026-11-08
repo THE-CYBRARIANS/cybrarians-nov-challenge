@@ -1,4 +1,3 @@
-# cybrarians-nov-challenge
 # The Cybrarians November Challenge: Office Network (VLANs)
 
 *Prepared by Kareem, The Cybrarians*
@@ -9,7 +8,7 @@ In October you built a basic topology. This month you level up: build a small of
 
 - **Tool:** Cisco Packet Tracer (free)
 - **Difficulty:** Beginner to Intermediate
-- **Deadline:** [insert date and time]
+- **Deadline:** 28th of November 
 
 ## What You Will Build
 
